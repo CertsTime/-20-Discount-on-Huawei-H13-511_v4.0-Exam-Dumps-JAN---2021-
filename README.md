@@ -43,7 +43,7 @@
 </div>
 
 <div style="background:#72C02C; color:#;border:1px solid #cccccc;padding:5px 10px;">
-<h3 style="text-align: Left;"><span style="color:#FFFFFF;"><strong>Free Huawei H13-511_v4.0 Questions 3 Months Updates with Refund Guarantee</strong></span></h3>
+<h3 style="text-align: Left;"><span style="color:#FFFFFF;"><strong>Free Huawei H13-511_v4.0 Questions 3 Months Updates with Refund Guaranteed</strong></span></h3>
 </div>
 
 <div style="border:10px solid #cccccc;padding:5px 10px;">
